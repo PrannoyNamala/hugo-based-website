@@ -65,4 +65,4 @@ highlight_name: true
 Prannoy Namala is a Master's student pursuing Robotics at Unoversity of Maryland, College Park. His research interest is in the intersection of artificial intelligence and multi robot systems. Currently, he is working at the Simulations Based Systems Design (SBSD) Lab under Dr. Jeffrey Herrmann. He is also in the Maryland Robotics Center's Pathway to PhD program where he is researching the topic of Metareasoning for Multi Robot Systems.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_PNamala_Uploaded_Website.pdf" "newtab" >}}resumé{{< /staticref >}}.
